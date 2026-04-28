@@ -1,0 +1,15 @@
+{
+  "name": "react-ecommerce-stripe-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "mysql2": "latest",
+    "stripe": "latest"
+  }
+}
