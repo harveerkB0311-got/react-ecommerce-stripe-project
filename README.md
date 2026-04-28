@@ -67,6 +67,3 @@ DB_NAME=ecommerce_db
 STRIPE_SECRET_KEY=your_stripe_secret_key
 CLIENT_URL=http://localhost:3000
 ```
-
-## Resume Bullet
-Built a full-stack React e-commerce application with product listing, cart, checkout, Stripe payments, REST APIs, and MySQL database schema.
